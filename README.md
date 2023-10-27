@@ -1,0 +1,2 @@
+# smilenft
+使用openzeppelin生成的简单erc721代码，可以直接使用发行NFT
